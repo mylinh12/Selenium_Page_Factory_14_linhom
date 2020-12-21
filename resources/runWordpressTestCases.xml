@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Wordpress" parallel="false">
+
+	<!-- Run multiple browser -->
+	<test name="Run on FIREFOX">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.bankguru.login.Login_02_SeleniumFactory" />
+		</classes>
+	</test>
+
+
+</suite> <!-- Suite -->
