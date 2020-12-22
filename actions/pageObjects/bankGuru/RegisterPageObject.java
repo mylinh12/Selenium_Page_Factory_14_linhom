@@ -7,6 +7,7 @@ import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
 import commons.AbstractPage;
+import commons.PageGeneratorManager;
 
 public class RegisterPageObject extends AbstractPage {
 	WebDriver driver;

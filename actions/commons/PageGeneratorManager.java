@@ -1,6 +1,10 @@
-package pageObjects.bankGuru;
+package commons;
 
 import org.openqa.selenium.WebDriver;
+
+import pageObjects.bankGuru.HomePageObject;
+import pageObjects.bankGuru.LoginPageObject;
+import pageObjects.bankGuru.RegisterPageObject;
 
 public class PageGeneratorManager {
 

@@ -11,6 +11,7 @@ import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
 import commons.AbstractPage;
+import commons.PageGeneratorManager;
 
 public class LoginPageObject extends AbstractPage {
 	WebDriver driver;
