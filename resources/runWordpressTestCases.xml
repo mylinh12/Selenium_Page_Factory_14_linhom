@@ -8,5 +8,4 @@
 			<class name="com.bankguru.login.Login_02_SeleniumFactory" />
 		</classes>
 	</test>
-
 </suite> <!-- Suite -->
